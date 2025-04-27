@@ -1,0 +1,4 @@
+store_id,uptime_last_hour,uptime_last_day,downtime_last_hour,downtime_last_day,downtime_last_week
+store_A,0.0,20.0,0,1.0,1.5
+store_B,0.0,2.0,0,20.0,20.0
+store_C,60.0,21.0,0,0.0,0.0

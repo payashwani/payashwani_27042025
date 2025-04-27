@@ -1,0 +1,10 @@
+store_id,timestamp_utc,status
+store_A,2025-04-26 07:00:00,active
+store_A,2025-04-26 08:30:00,inactive
+store_A,2025-04-26 10:00:00,active
+store_B,2025-04-26 09:00:00,active
+store_B,2025-04-26 11:00:00,inactive
+store_C,2025-04-26 12:00:00,active
+store_A,2025-04-27 06:00:00,active
+store_B,2025-04-27 07:00:00,active
+store_C,2025-04-27 09:00:00,inactive

@@ -170,3 +170,8 @@ Due to time constraints, the following enhancements are proposed for future deve
 ## CSV Report
 
 The generated CSV report is located in the `reports/report.csv` file.
+
+ ## Video Demonstration
+ You can view a demonstartaion of API workflow and code explanation in this loom video :
+      https://www.loom.com/share/49fdc23772d547c28617b397a79f3b47?sid=8f736536-a733-44a3-a5f0-9ae834da398c  
+      
